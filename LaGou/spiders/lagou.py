@@ -14,12 +14,22 @@ class LagouSpider(scrapy.Spider):
     def __init__(self):
         # 设置头信息, 若不设置的话, 在请求第二页时即被拉勾网认为是爬虫而不能爬取数据
         self.headers = {
-            "Accept": "application/json, text/javascript, */*; q=0.01",
-            "Connection": "keep-alive",
-            "Host": "www.lagou.com",
-            "Referer": 'https://www.lagou.com/jobs/list_Python?',
-            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-            "referer": "https://www.lagou.com/jobs/list_python?"
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+            "accept-encoding": "gzip, deflate, br",
+            "accept-language": "zh-CN,zh;q=0.9",
+            "connection": "keep-alive",
+            "host": "www.lagou.com",
+            "referer": 'https://www.lagou.com/jobs/list_Python?',
+            "content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+            "referer": "https://www.lagou.com/jobs/list_python?",
+            ":authority" : "www.lagou.com",
+            ":scheme": "https",
+            "cache-control": "max-age=0",
+            "sec-fetch-dest": "document",
+            "sec-fetch-mode": "navigate",
+            "sec-fetch-site": "same-origin",
+            "sec-fetch-user": "?1",
+            "upgrade-insecure-requests": "1",
         }
         self.sid = ''
         self.job_url_temp = 'https://www.lagou.com/jobs/{}.html?show={}'
@@ -97,8 +107,11 @@ class LagouSpider(scrapy.Spider):
         # 解析数据
         # 获取职位头div
         job_div = response.xpath('//div[@class="position-content-l"]')
+        print(response.request.url)
+        print(job_div)
         if job_div:
             item['job_name'] = job_div.xpath('./div/h1/text()').extract_first()
+            print(item['job_name'])
             item['salary'] = job_div.xpath('./dd/h3/span[1]/text()').extract_first().strip()
             item['city'] = job_div.xpath('./dd/h3/span[2]/text()').extract_first().strip('/').strip()
             item['area'] = response.xpath('//div[@class="work_addr"]/a[2]/text()').extract_first()
@@ -115,4 +128,8 @@ class LagouSpider(scrapy.Spider):
             item['company_public'] = company_div.xpath('./dd//li[2]/h4[@class="c_feature_name"]/text()').extract_first()
             item['company_size'] = company_div.xpath('./dd//li[4]/h4[@class="c_feature_name"]/text()').extract_first()
             yield item
+        else:
+            with open('content.text', 'a', encoding='utf-8') as f:
+                f.write('*' * 30 + '\n')
+                f.write(response.body.decode())
 

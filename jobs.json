@@ -1,27 +1,29 @@
 {
-  "job_url": "https://www.lagou.com/jobs/7091667.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "Python 工程师（运维方向）",
-  "salary": "15k-25k",
-  "city": "深圳",
-  "area": "南山区",
+  "job_url": "https://www.lagou.com/jobs/6868951.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "python后端开发工程师",
+  "salary": "8k-16k",
+  "city": "上海",
+  "area": "杨浦区",
   "experience": "经验1-3年",
   "education": "本科及以上",
   "labels": [
-    "后端",
-    "分布式",
+    "金融",
     "Python",
-    "自动化"
+    "后端",
+    "系统架构",
+    "数据库"
   ],
-  "publish_date": "10:20  发布于拉勾网",
-  "company": "爱客科技（深圳）有限公司",
+  "publish_date": "16:33  发布于拉勾网",
+  "company": "上海九鞅科技有限公司",
   "company_feature": [
-    "电商"
+    "金融",
+    "数据服务"
   ],
   "company_public": "不需要融资",
-  "company_size": "50-150人"
+  "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/7083280.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7083280.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "Python工程师",
   "salary": "20k-30k",
   "city": "北京",
@@ -43,7 +45,7 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/6038726.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/6038726.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "python",
   "salary": "16k-25k",
   "city": "上海",
@@ -64,27 +66,92 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/6785833.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "python开发工程师",
-  "salary": "7k-10k",
+  "job_url": "https://www.lagou.com/jobs/7321303.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "python后端工程师",
+  "salary": "6k-10k",
   "city": "广州",
-  "area": "海珠区",
+  "area": "荔湾区",
+  "experience": "经验5-10年",
+  "education": "本科及以上",
+  "labels": [
+    "python爬虫",
+    "爬虫工程师",
+    "后端",
+    "平台",
+    "家居",
+    "装修"
+  ],
+  "publish_date": "11:18  发布于拉勾网",
+  "company": "江门市乾山混凝土有限公司",
+  "company_feature": [
+    "房产家居",
+    "软件开发"
+  ],
+  "company_public": "天使轮",
+  "company_size": null
+}
+{
+  "job_url": "https://www.lagou.com/jobs/6848831.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "Python开发工程师",
+  "salary": "12k-20k",
+  "city": "上海",
+  "area": "长宁区",
   "experience": "经验1-3年",
+  "education": "本科及以上",
+  "labels": [
+    "后端",
+    "Python"
+  ],
+  "publish_date": "15:12  发布于拉勾网",
+  "company": "翼健（上海）信息科技有限公司",
+  "company_feature": [
+    "医疗丨健康"
+  ],
+  "company_public": "B轮",
+  "company_size": null
+}
+{
+  "job_url": "https://www.lagou.com/jobs/6740368.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "python",
+  "salary": "10k-18k",
+  "city": "成都",
+  "area": "武侯区",
+  "experience": "经验3-5年",
   "education": "本科及以上",
   "labels": [
     "Python"
   ],
-  "publish_date": "1天前  发布于拉勾网",
-  "company": "深圳道乐科技有限公司",
+  "publish_date": "14:31  发布于拉勾网",
+  "company": "深圳市网新新思软件有限公司",
   "company_feature": [
     "移动互联网",
-    "金融"
+    "企业服务"
   ],
-  "company_public": "未融资",
+  "company_public": "上市公司",
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/5617112.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7163066.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "资深Python/Go工程师",
+  "salary": "30k-60k",
+  "city": "北京",
+  "area": "海淀区",
+  "experience": "经验3-5年",
+  "education": "本科及以上",
+  "labels": [
+    "后端"
+  ],
+  "publish_date": "12:25  发布于拉勾网",
+  "company": "北京百家互联科技有限公司",
+  "company_feature": [
+    "移动互联网",
+    "教育"
+  ],
+  "company_public": "上市公司",
+  "company_size": null
+}
+{
+  "job_url": "https://www.lagou.com/jobs/5617112.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "python后端工程师",
   "salary": "15k-30k",
   "city": "杭州",
@@ -97,7 +164,7 @@
     "数据挖掘",
     "算法"
   ],
-  "publish_date": "10:19  发布于拉勾网",
+  "publish_date": "15:53  发布于拉勾网",
   "company": "浙江天垂科技有限公司",
   "company_feature": [
     "数据服务",
@@ -107,7 +174,7 @@
   "company_size": "15-50人"
 }
 {
-  "job_url": "https://www.lagou.com/jobs/6098993.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/6098993.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "Python开发工程师",
   "salary": "25k-40k",
   "city": "上海",
@@ -126,28 +193,31 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/6578063.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "高级 Python 工程师",
-  "salary": "25k-35k",
-  "city": "深圳",
-  "area": "南山区",
-  "experience": "经验5-10年",
-  "education": "本科及以上",
+  "job_url": "https://www.lagou.com/jobs/7321732.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "python开发（爬虫、数据清洗）",
+  "salary": "5k-8k",
+  "city": "武汉",
+  "area": "江夏区",
+  "experience": "经验1-3年",
+  "education": "大专及以上",
   "labels": [
-    "Node.js",
+    "大数据",
     "Python",
-    "后端"
+    "Linux/Unix",
+    "数据采集",
+    "python爬虫"
   ],
-  "publish_date": "10:20  发布于拉勾网",
-  "company": "爱客科技（深圳）有限公司",
+  "publish_date": "11:16  发布于拉勾网",
+  "company": "北京乐在指尖科技有限公司",
   "company_feature": [
-    "电商"
+    "移动互联网",
+    "企业服务"
   ],
-  "company_public": "不需要融资",
-  "company_size": "50-150人"
+  "company_public": "未融资",
+  "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/7284260.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7284260.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "python开发工程师",
   "salary": "12k-16k",
   "city": "上海",
@@ -167,51 +237,7 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/7016608.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "Python 后端开发工程师",
-  "salary": "15k-30k",
-  "city": "上海",
-  "area": "闵行区",
-  "experience": "经验5-10年",
-  "education": "本科及以上",
-  "labels": [
-    "社交",
-    "移动互联网",
-    "后端",
-    "Linux/Unix",
-    "Python",
-    "MySQL"
-  ],
-  "publish_date": "10:08  发布于拉勾网",
-  "company": "上海心莲信息科技有限公司",
-  "company_feature": [
-    "移动互联网",
-    "社交"
-  ],
-  "company_public": "A轮",
-  "company_size": null
-}
-{
-  "job_url": "https://www.lagou.com/jobs/6707116.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "python开发",
-  "salary": "12k-24k",
-  "city": "北京",
-  "area": "朝阳区",
-  "experience": "经验不限",
-  "education": "本科及以上",
-  "labels": [
-    "后端"
-  ],
-  "publish_date": "1天前  发布于拉勾网",
-  "company": "北京博乐科技有限公司",
-  "company_feature": [
-    "移动互联网"
-  ],
-  "company_public": "不需要融资",
-  "company_size": null
-}
-{
-  "job_url": "https://www.lagou.com/jobs/7317863.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7317863.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "python开发工程师",
   "salary": "10k-12k·14薪",
   "city": "杭州",
@@ -221,7 +247,7 @@
   "labels": [
     "后端"
   ],
-  "publish_date": "1天前  发布于拉勾网",
+  "publish_date": "15:19  发布于拉勾网",
   "company": "杭州青塔科技有限公司",
   "company_feature": [
     "移动互联网",
@@ -231,7 +257,29 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/7135918.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7315084.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "Python/java后端开发",
+  "salary": "16k-25k",
+  "city": "北京",
+  "area": "朝阳区",
+  "experience": "经验3-5年",
+  "education": "本科及以上",
+  "labels": [
+    "java",
+    "python",
+    "多线程",
+    "微服务"
+  ],
+  "publish_date": "15:20  发布于拉勾网",
+  "company": "武汉佰钧成技术有限责任公司",
+  "company_feature": [
+    "移动互联网"
+  ],
+  "company_public": "不需要融资",
+  "company_size": null
+}
+{
+  "job_url": "https://www.lagou.com/jobs/7135918.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "技术经理（python)",
   "salary": "18k-30k",
   "city": "上海",
@@ -256,7 +304,7 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/6851017.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/6851017.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "python开发工程师",
   "salary": "10k-17k",
   "city": "深圳",
@@ -278,50 +326,7 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/6000059.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "python开发工程师",
-  "salary": "10k-20k",
-  "city": "广州",
-  "area": "天河区",
-  "experience": "经验1-3年",
-  "education": "本科及以上",
-  "labels": [
-    "后端",
-    "Python"
-  ],
-  "publish_date": "1天前  发布于拉勾网",
-  "company": "广州回头车信息科技有限公司",
-  "company_feature": [
-    "消费生活"
-  ],
-  "company_public": "A轮",
-  "company_size": null
-}
-{
-  "job_url": "https://www.lagou.com/jobs/7230289.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "高级后端开发工程师（python)",
-  "salary": "20k-40k",
-  "city": "北京",
-  "area": "海淀区",
-  "experience": "经验5-10年",
-  "education": "本科及以上",
-  "labels": [
-    "大数据",
-    "后端",
-    "Python",
-    "docker"
-  ],
-  "publish_date": "1天前  发布于拉勾网",
-  "company": "北京聚道科技有限公司",
-  "company_feature": [
-    "医疗丨健康",
-    "数据服务"
-  ],
-  "company_public": "B轮",
-  "company_size": "15-50人"
-}
-{
-  "job_url": "https://www.lagou.com/jobs/7063252.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7063252.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "Python开发工程师",
   "salary": "12k-20k",
   "city": "北京",
@@ -343,12 +348,34 @@
   "company_size": "50-150人"
 }
 {
-  "job_url": "https://www.lagou.com/jobs/5920752.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "python开发工程师",
-  "salary": "20k-35k",
+  "job_url": "https://www.lagou.com/jobs/7091667.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "Python 工程师（运维方向）",
+  "salary": "15k-25k",
+  "city": "深圳",
+  "area": "南山区",
+  "experience": "经验1-3年",
+  "education": "本科及以上",
+  "labels": [
+    "后端",
+    "分布式",
+    "Python",
+    "自动化"
+  ],
+  "publish_date": "15:45  发布于拉勾网",
+  "company": "爱客科技（深圳）有限公司",
+  "company_feature": [
+    "电商"
+  ],
+  "company_public": "不需要融资",
+  "company_size": "50-150人"
+}
+{
+  "job_url": "https://www.lagou.com/jobs/6955317.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
+  "job_name": "Python开发工程师-财务报表...",
+  "salary": "20k-40k",
   "city": "北京",
   "area": "海淀区",
-  "experience": "经验1-3年",
+  "experience": "经验3-5年",
   "education": "本科及以上",
   "labels": [
     "后端开发"
@@ -362,7 +389,7 @@
   "company_size": null
 }
 {
-  "job_url": "https://www.lagou.com/jobs/7239569.html?show=69a30b4e2a9944619be76230b5aa8efb",
+  "job_url": "https://www.lagou.com/jobs/7239569.html?show=beee8b26cc724080a9b6bfd3cc4fdfe5",
   "job_name": "python工程师",
   "salary": "8k-10k",
   "city": "武汉",
@@ -380,104 +407,5 @@
     "金融"
   ],
   "company_public": "A轮",
-  "company_size": null
-}
-{
-  "job_url": "https://www.lagou.com/jobs/5764968.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "python工程师",
-  "salary": "14k-28k",
-  "city": "北京",
-  "area": "大兴区",
-  "experience": "经验不限",
-  "education": "硕士及以上",
-  "labels": [
-    "医疗健康",
-    "云计算",
-    "后端",
-    "docker",
-    "服务器端"
-  ],
-  "publish_date": "2天前  发布于拉勾网",
-  "company": "生仝智能科技（北京）有限公司",
-  "company_feature": [
-    "移动互联网"
-  ],
-  "company_public": "天使轮",
-  "company_size": "15-50人"
-}
-{
-  "job_url": "https://www.lagou.com/jobs/7051696.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "Python开发工程师",
-  "salary": "15k-25k",
-  "city": "深圳",
-  "area": "南山区",
-  "experience": "经验3-5年",
-  "education": "本科及以上",
-  "labels": [
-    "新零售",
-    "后端"
-  ],
-  "publish_date": "2天前  发布于拉勾网",
-  "company": "深圳蓝贝科技有限公司",
-  "company_feature": [
-    "消费生活",
-    "移动互联网"
-  ],
-  "company_public": "D轮及以上",
-  "company_size": "500-2000人"
-}
-{
-  "job_url": "https://www.lagou.com/jobs/7047441.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "Python开发工程师",
-  "salary": "9k-14k",
-  "city": "杭州",
-  "area": "余杭区",
-  "experience": "经验1-3年",
-  "education": "本科及以上",
-  "labels": [
-    "后端",
-    "分布式"
-  ],
-  "publish_date": "2天前  发布于拉勾网",
-  "company": "杭州河象网络科技有限公司",
-  "company_feature": [
-    "教育",
-    "移动互联网"
-  ],
-  "company_public": "B轮",
-  "company_size": null
-}
-{
-  "job_url": "https://www.lagou.com/jobs/6778769.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "Python开发工程师-安全方向",
-  "salary": "20k-40k",
-  "city": "北京",
-  "area": "海淀区",
-  "experience": "经验1-3年",
-  "education": "本科及以上",
-  "labels": [],
-  "publish_date": "1天前  发布于拉勾网",
-  "company": "北京字节跳动科技有限公司",
-  "company_feature": [
-    "文娱丨内容"
-  ],
-  "company_public": "C轮",
-  "company_size": null
-}
-{
-  "job_url": "https://www.lagou.com/jobs/6565264.html?show=69a30b4e2a9944619be76230b5aa8efb",
-  "job_name": "Python后端高级开发工程师-...",
-  "salary": "20k-40k",
-  "city": "北京",
-  "area": "海淀区",
-  "experience": "经验1-3年",
-  "education": "本科及以上",
-  "labels": [],
-  "publish_date": "1天前  发布于拉勾网",
-  "company": "北京字节跳动科技有限公司",
-  "company_feature": [
-    "文娱丨内容"
-  ],
-  "company_public": "C轮",
   "company_size": null
 }
