@@ -12,11 +12,12 @@ class LagouSpider(scrapy.Spider):
     start_urls = ['https://www.lagou.com/jobs/list_python?']
 
     def __init__(self):
+        # 设置头信息, 若不设置的话, 在请求第二页时即被拉勾网认为是爬虫而不能爬取数据
         self.headers = {
             "Accept": "application/json, text/javascript, */*; q=0.01",
             "Connection": "keep-alive",
             "Host": "www.lagou.com",
-            "Referer": 'https://www.lagou.com/jobs/list_Python?px=default&city=%E6%AD%A6%E6%B1%89',
+            "Referer": 'https://www.lagou.com/jobs/list_Python?',
             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
             "referer": "https://www.lagou.com/jobs/list_python?"
         }
